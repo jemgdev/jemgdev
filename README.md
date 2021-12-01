@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosueEMG
-- 👀 I’m interested in programmer
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in create web apps
+- 🌱 I’m currently learning ReactJS with Typescript
 
 <!---
 JosueEMG/JosueEMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
