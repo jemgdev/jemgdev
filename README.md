@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Josué Emmanuel Medina García</h1>
 <h3 align="center">A systems engineer student</h3>
 
-- 🔭 I’m currently working on [GoClass](https://github.com/JosueEMG/GoClass-App.git)
+- 🔭 I’m currently working on [GoClass](https://github.com/jemgdev/GoClass-App.git)
 
 - 🌱 I’m currently learning **ReactJS and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://josueemg.github.io/Portfolio/](https://josueemg.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://jemgdev.github.io/Portfolio/](https://jemgdev.github.io/Portfolio/)
 
 - 💬 Ask me about **nodejs**
 
