@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Chakra-UI**
 
-- 👨‍💻 All of my projects are available at [https://jemgdev.github.io/Portfolio/](https://jemgdev.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio-jemgdev.vercel.app/](https://portfolio-jemgdev.vercel.app/)
 
 - 💬 Ask me about **web development**
 
