@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-jemgdev.vercel.app/](https://portfolio-jemgdev.vercel.app/)
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **jemgdev@gmail.com**
 
