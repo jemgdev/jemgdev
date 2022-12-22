@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pragma](https://www.pragma.com.co/)
 
-- 🌱 I’m currently learning **Chakra-UI**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-jemgdev.vercel.app/](https://portfolio-jemgdev.vercel.app/)
 
