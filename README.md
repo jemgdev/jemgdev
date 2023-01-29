@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josué Emmanuel Medina García</h1>
-<h3 align="center">A systems engineer student</h3>
+<h3 align="center">A systems engineer</h3>
 
 - 🔭 I’m currently working on [Pragma](https://www.pragma.com.co/)
 
