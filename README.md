@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josué Emmanuel Medina García</h1>
-<h3 align="center">Software Developer engineer</h3>
+<h3 align="center">Software Developer Engineer</h3>
 
 - 🔭 I’m currently working on [Pragma](https://www.pragma.com.co/)
 
