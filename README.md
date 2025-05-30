@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jemgdev.vercel.app/](https://portfolio-jemgdev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio.jemgdev.click/](https://portfolio.jemgdev.click/)
 
 - 💬 Ask me about **Node.js**
 
