@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Pragma](https://www.pragma.com.co/)
 
-- 🌱 I’m currently learning **AWS**
-
 - 👨‍💻 All of my projects are available at [https://portfolio.jemgdev.click/](https://portfolio.jemgdev.click/)
 
 - 💬 Ask me about **Node.js**
