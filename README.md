@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pragma](https://www.pragma.com.co/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio.jemgdev.click/](https://portfolio.jemgdev.click/)
+- 👨‍💻 All of my projects are available at [https://jemgdev.click/](https://jemgdev.click/)
 
 - 💬 Ask me about **Node.js**
 
